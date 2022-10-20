@@ -1,0 +1,1 @@
+ _fraseGerada = _frases[numeroSorteado];
